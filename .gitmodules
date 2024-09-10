@@ -1,0 +1,20 @@
+[submodule "moodle/admin/tool/pluginskel"]
+	path = moodle/admin/tool/pluginskel
+	url = https://github.com/mudrd8mz/moodle-tool_pluginskel.git
+	branch = main
+[submodule "moodle/local/codechecker"]
+	path = moodle/local/codechecker
+	url = https://github.com/moodlehq/moodle-local_codechecker.git
+	branch = main
+[submodule "moodle/local/moodlecheck"]
+	path = moodle/local/moodlecheck
+	url = https://github.com/moodlehq/moodle-local_moodlecheck.git
+	branch = main
+[submodule "moodle/local/adminer"]
+	path = moodle/local/adminer
+	url = https://github.com/grabs/moodle-local_adminer.git
+	branch = MOODLE_403_STABLE
+[submodule "moodle/local/mailtest"]
+	path = moodle/local/mailtest
+	url = https://github.com/michael-milette/moodle-local_mailtest.git
+	branch = master
